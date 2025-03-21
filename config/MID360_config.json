@@ -28,28 +28,26 @@
       "ip" : "192.168.1.12",
       "pcl_data_type" : 1,
       "pattern_mode" : 0,
-      "frame_id": "sensor_right",
       "extrinsic_parameter" : {
         "roll": 0.0,
         "pitch": 0.0,
-        "yaw": 0.0,
-        "x": 0,
-        "y": 0,
-        "z": 0
+        "yaw": -50.25,
+        "x": 1608,
+        "y": -520,
+        "z": 10
       }
     },
     {
       "ip" : "192.168.1.156",
       "pcl_data_type" : 1,
       "pattern_mode" : 0,
-      "frame_id": "sensor_left",
       "extrinsic_parameter" : {
         "roll": 0.0,
         "pitch": 0.0,
-        "yaw": 0.0,
-        "x": 0,
-        "y": 0,
-        "z": 0
+        "yaw": 44.25,
+        "x": 1588,
+        "y": 550,
+        "z": 10
       }
     }
   ]
